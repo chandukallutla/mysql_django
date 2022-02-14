@@ -86,10 +86,10 @@ WSGI_APPLICATION = 'mysql_django.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'reddy',
-        'USER': 'sai',
-        'PASSWORD': 'sai123',
-        'HOST': 'database-1.cd7vy9vyykrt.ap-south-1.rds.amazonaws.com',
+        'NAME': 'enter_your_DBname_here',
+        'USER': 'enter_your_User_name_here',
+        'PASSWORD': 'enter_your_password_here',
+        'HOST': 'enter_your_Rds_endpoint_)here',
         'PORT': '3306',
     }
 }
