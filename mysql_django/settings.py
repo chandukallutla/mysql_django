@@ -89,7 +89,7 @@ DATABASES = {
         'NAME': 'enter_your_DBname_here',
         'USER': 'enter_your_User_name_here',
         'PASSWORD': 'enter_your_password_here',
-        'HOST': 'enter_your_Rds_endpoint_)here',
+        'HOST': 'enter_your_Rds_endpoint_here',
         'PORT': '3306',
     }
 }
